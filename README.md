@@ -3,7 +3,7 @@ Hi I'm Jack (@jamibu),
 
 - I'm interested in fullstack development, data and ML among other things
 - I have extensive experience in Python programming 
-- I'm currently learning React and PyTorch
+- I'm currently learning React, Rust, and PyTorch
 - Email: bucher.codes@gmail.com
 
 <!---
