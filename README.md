@@ -6,7 +6,7 @@ Hi I'm Jack (@jamibu),
 - I'm currently learning React, Rust, and PyTorch
 - Email: bucher.codes@gmail.com
 
-Starting over fresh with a new Github account for all my personal programming endeavours.
+Relatively new Github account for all my personal programming endeavours.
 <!---
 jamibu/jamibu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
