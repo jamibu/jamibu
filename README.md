@@ -1,9 +1,9 @@
 # About Me
 Hi I'm Jack (@jamibu),
 
-- I'm interested in fullstack development, data and ML among other things
-- I have extensive experience in Python programming 
-- I'm currently learning Rust, a bit of Frontend, and Dev Ops
+- I'm interested all things programming, especially backend development and data science.
+- Predominantly working in Python, Rust, and Go
+- Learning about interpreters and compilers, playing around some game engines, and learning the basics of NLP
 - Email: bucher.codes@gmail.com
 
 Relatively new Github account for all my personal programming endeavours.
